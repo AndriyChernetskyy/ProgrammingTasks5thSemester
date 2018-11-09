@@ -1,7 +1,7 @@
 # ProgrammingTasks5thSemester
 This repository is created to provide programming solutions to given tasks based on LNU class.
 
-Guys do not forget to Switch tou your team's brach and commit any change there.
+Guys do not forget to Switch to your team's brach and commit any change there.
 
 To download GUI follow this link https://desktop.github.com/
 
