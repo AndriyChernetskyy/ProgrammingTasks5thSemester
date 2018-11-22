@@ -6,7 +6,7 @@
     /// Represent Carrier
     /// </summary>
     [Serializable]
-    class Carrier
+    public class Carrier
     {
         /// <summary>
         /// Gets or sets <see cref="Name"/> for <see cref="Carrier"/>.
