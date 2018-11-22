@@ -1,5 +1,0 @@
-E:\PofCIS_Team5-dev\PofCIS_Team5-dev\HexagonVisualisator\HexagonVisualisatorDAL\bin\Debug\HexagonVisualisatorDAL.dll
-E:\PofCIS_Team5-dev\PofCIS_Team5-dev\HexagonVisualisator\HexagonVisualisatorDAL\bin\Debug\HexagonVisualisatorDAL.pdb
-E:\PofCIS_Team5-dev\PofCIS_Team5-dev\HexagonVisualisator\HexagonVisualisatorDAL\obj\Debug\HexagonVisualisatorDAL.csproj.CoreCompileInputs.cache
-E:\PofCIS_Team5-dev\PofCIS_Team5-dev\HexagonVisualisator\HexagonVisualisatorDAL\obj\Debug\HexagonVisualisatorDAL.dll
-E:\PofCIS_Team5-dev\PofCIS_Team5-dev\HexagonVisualisator\HexagonVisualisatorDAL\obj\Debug\HexagonVisualisatorDAL.pdb
