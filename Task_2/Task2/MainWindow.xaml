@@ -1,0 +1,43 @@
+﻿<Window x:Class="Task2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Background="LightGray"
+        PreviewKeyDown="KeyboardClick">
+    <Window.CommandBindings>
+        <CommandBinding Command="New" Executed="NewCanvas" />
+        <CommandBinding Command="Open" Executed="OpenCanvas" />
+        <CommandBinding Command="Save" Executed="SaveCanvas" />
+    </Window.CommandBindings>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Menu DockPanel.Dock="Top">
+                <MenuItem Header="_File">
+                    <MenuItem Header="_New" Command="New"/>
+                    <MenuItem Header="_Open" Command="Open"/>
+                    <MenuItem Header="_Save" Command="Save"/>
+                </MenuItem>
+                <MenuItem Header="_Shapes" x:Name="polygonesList" Grid.Row="1" ItemTemplate="{StaticResource listTemplate}" Click="SelectPolygon" />
+                <MenuItem Header="_Save" Command="Save">
+                </MenuItem>
+            </Menu>
+        </DockPanel>
+        <Canvas  Visibility="Collapsed"
+                 Grid.Row="1" Name="Main"
+                 MouseLeftButtonDown="MouseClick" 
+                 Background="Transparent"
+                 Focusable="true" />
+        <StackPanel Grid.Row="1" Style="{StaticResource Center}" Name="Hint">
+            <TextBlock>Select File -> New to start drawing</TextBlock>
+            <TextBlock>Select File -> Open to open a canvas</TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
