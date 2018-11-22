@@ -1,0 +1,17 @@
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\RealEstateTestsProject.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\RealEstateTestsProject.pdb
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\RealEstateBrokerage.exe
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\RealEstateBrokerage.pdb
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\RealEstateBrokerage.exe.config
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\obj\Debug\RealEstateTestsProject.csprojResolveAssemblyReference.cache
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\obj\Debug\RealEstateTestsProject.csproj.CoreCompileInputs.cache
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\obj\Debug\RealEstateTestsProject.csproj.CopyComplete
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\obj\Debug\RealEstateTestsProject.dll
+C:\Users\Ігор\Desktop\Нова папка\PofCIS_Team5-dev\RealEstateBrokerage\RealEstateTestsProject\obj\Debug\RealEstateTestsProject.pdb
